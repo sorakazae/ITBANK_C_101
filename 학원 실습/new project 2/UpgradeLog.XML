@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="new project 2">
+</Property><Property Name="솔루션 파일" Value="G:\c언어\학원 실습\new project 2\new project 2.sln">
+</Property><Property Name="사용자 옵션 파일" Value="G:\c언어\학원 실습\new project 2\new project 2.suo">
+</Property><Property Name="Date" Value="2014년 1월 5일 일요일">
+</Property><Property Name="Time" Value="오후 21:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="new project 2.sln" Description="파일을 G:\c언어\학원 실습\new project 2\new project 2.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="new project 2.suo" Description="파일을 G:\c언어\학원 실습\new project 2\new project 2.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="new project 2" Source="new project 2\new project 2.vcproj" Description="Converting project file 'G:\c언어\학원 실습\new project 2\new project 2\new project 2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="new project 2" Source="new project 2\new project 2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="new project 2" Source="new project 2\new project 2.vcproj" Description="Done converting to new project file 'G:\c언어\학원 실습\new project 2\new project 2\new project 2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="new project 2" Source="new project 2\new project 2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="new project 2.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="new project 2.sln" Description="Converted">
+</Event></UpgradeLog>

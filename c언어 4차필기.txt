@@ -1,0 +1,9 @@
+else 뒤에는 조건식이 없다.
+case 뒤에는 break를 넣는다.
+실수는 switch~case문에서 쓰지 않는다.
+
+while문은 조건식 생략 불가
+
+break는 반복문,switch~ case에만 쓸것
+continue는 반복문에
+goto는 쓰지 않는게 좋음(숙제에 절때 쓰지 않기)

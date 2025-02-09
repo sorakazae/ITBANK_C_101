@@ -1,0 +1,20 @@
+﻿빌드 시작: 2014-01-05 오후 10:08:09
+     1>2 노드의 "G:\c언어\학원 실습\new project 2\new project 2\new project 2.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\new project 2.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+       Manifest:
+         모든 출력이 최신 상태입니다.
+       FinalizeBuildStatus:
+         "Debug\new project 2.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\new project 2.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"G:\c언어\학원 실습\new project 2\new project 2\new project 2.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.22

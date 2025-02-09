@@ -1,0 +1,15 @@
+﻿빌드 시작: 2014-01-24 오후 2:31:18
+     1>2 노드의 "G:\c언어\숙제\3주차\homework3-2\homework3-2\homework3-2.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\homework3-2.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt intabae.c
+         intabae.c
+     1>g:\c언어\숙제\3주차\homework3-2\homework3-2\intabae.c(6): error C2106: '=' : 왼쪽 피연산자는 l-value이어야 합니다.
+     1>g:\c언어\숙제\3주차\homework3-2\homework3-2\intabae.c(7): error C2106: '=' : 왼쪽 피연산자는 l-value이어야 합니다.
+     1>g:\c언어\숙제\3주차\homework3-2\homework3-2\intabae.c(8): error C2106: '=' : 왼쪽 피연산자는 l-value이어야 합니다.
+     1>"G:\c언어\숙제\3주차\homework3-2\homework3-2\homework3-2.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.14
